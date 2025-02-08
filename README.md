@@ -51,3 +51,4 @@ The Inventory Management Tool is a robust & efficient web application designed t
 - Run the application and access it via your preferred browser.
 ## 📧 Contact
 For any queries or contributions, feel free to reach out!
+- LinkedIn: [Chetan Pawar](https://www.linkedin.com/in/chetan-pawar29/)
