@@ -55,9 +55,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <nav id="sidebar">
             <div class="sidebar-header">
                 <h1>
-                    <a href="index.html">InvMS</a>
+                    <a href="index.html">InvTrack</a>
                 </h1>
-                <span>InvMS</span>
+                <span>InvTrack</span>
             </div>
             <div class="profile-bg"></div>
             <ul class="list-unstyled components">
